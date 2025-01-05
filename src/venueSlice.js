@@ -17,13 +17,13 @@ export const venueSlice = createSlice({
       quantity: 0,
     },
     {
-      img: "https://pixabay.com/images/download/convention-center-3908238_640.jpg",
+      img: "https://media.istockphoto.com/id/151548076/photo/empty-theatre-with-red-seats-in-low-light.jpg?s=1024x1024&w=is&k=20&c=Aoc_QLi5sbXlIt-nWWfnmkVrDtXzQYQoJB61g3fE0fY=",
       name: "Presentation Room (Capacity:50)",
       cost: 700,
       quantity: 0,
     },
     {
-      img: "https://pixabay.com/images/download/chairs-2181916_640.jpg",
+      img: "https://pixabay.com/get/gb046e20888747366a787946f4226d0fa87c9474b7880b90b0668ab0feb01ba1881b642aff54ed5b8825a399b868a42260b9f7fef823029cc9c4dff2e959c677aced1ef4a87078f152d0548e8ad649616_1280.jpg",
       name: "Large Meeting Room (Capacity:10)",
       cost: 900,
       quantity: 0,
